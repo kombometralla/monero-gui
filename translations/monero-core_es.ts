@@ -674,7 +674,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="568"/>
         <source>Transactions</source>
-        <translation>Traducciones</translation>
+        <translation>Transacciones</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="569"/>
